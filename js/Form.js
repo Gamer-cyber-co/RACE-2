@@ -23,7 +23,7 @@ display(){
 
         var greeting=createElement('h3');
         greeting.html("Hello "+name);
-        greeting.position(130,160)
+        greeting.position(600,160)
     })
 }
 }
